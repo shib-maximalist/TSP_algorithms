@@ -6,6 +6,9 @@ Three different approaches to solving the Traveling Salesman Problem, visualized
 
 Loads 44 coordinate points on a German map and finds the shortest route that visits all of them exactly once, then returns to the start. You pick the algorithm, watch it work, and compare the results.
 
+## Demo
+https://github.com/user-attachments/assets/f6c186d9-8115-4f35-afaf-f8f32e775f92
+
 ## The three algorithms
 
 ### 1. Greedy (Nearest Neighbor)
